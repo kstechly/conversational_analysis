@@ -2,7 +2,7 @@ Runs in the terminal.
 `python3 conversational_analysis_editor.py [INPUT.txt]`
 
 # Conversational Analysis Editor
-A simple terminal-based editor for conversational data, designed for analyzing and editing dialogue transcripts.
+A simple terminal-based editor for conversational data, designed for editing dialogue transcripts. Built to follow the format in Hepburn and Bolden's chapter 4 (pages: 57-76) in the Handbook of Conversational Analysis (2012): *The Conversation Analytic Approach to Transcription*.
 ## Overview
 This editor allows you to:
 * View and edit dialogue entries with speaker names and content
